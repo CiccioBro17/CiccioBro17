@@ -14,6 +14,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://camo.githubusercontent.com/0b578db5f875e6f123fd1e6331f7dbc16337ac0197da707d59f1b58230d80f07/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6d65726b6f)
 
 ### 🔝 Top Contributed Repo
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=CiccioBro17&limit=5&theme=default&combine_all_yearly_contributions=true) -->
